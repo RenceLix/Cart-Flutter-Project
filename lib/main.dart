@@ -112,7 +112,7 @@ class _CartHomePageState extends State<CartHomePage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      body: SafeArea( makan bakso
+      body: SafeArea(
         child: Stack(
           children: [
             // Main page content: header + product area + summary bar.
